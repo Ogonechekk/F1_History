@@ -1,0 +1,2 @@
+:HL["/F1_History/_next/static/chunks/3_wa-73g6y630.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"W1H1L3GTftY1DEwds2rqh"}
